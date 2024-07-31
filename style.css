@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #021526;
+}
+
+.clicker {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #E7F0DC;
+    cursor: pointer;
+}
+.img{
+   height: 200px;
+   width: 200px;
+}
+
+.score {
+    color: #E7F0DC;
+    font-size: 24px;
+    margin-top: 16px;
+}
+.h1_text{
+  display: flex;
+    color: black;
+}
+.text{
+display: block;
+   background-color: rgb(11, 89, 184);
+}
